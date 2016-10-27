@@ -1,1 +1,32 @@
-font-family: 'Abhaya Libre', serif;
+html {
+  font-family: "Abhaya Libre", serif;
+}
+
+.nav {
+  background-color: #423ca3;
+  text-align: center;
+}
+
+.masthead {
+  color: #fff;
+  background-color: #423ca3;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.logo {
+  background-color: #15114c;
+  border: 3px solid #15114c;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.logo:hover {
+  background-color: #fff;
+  border: 5px solid #fff;
+  border-radius: 10px;
+  color: #15114c;
+}
